@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12644" started-at="2022-03-25T09:40:34 IST" finished-at="2022-03-25T09:40:46 IST">
+    <groups>
+    </groups>
+    <test name="Pixel_4_sauce_lab_app_tests" duration-ms="12644" started-at="2022-03-25T09:40:34 IST" finished-at="2022-03-25T09:40:46 IST">
+      <class name="com.qa.tests.LoginTests">
+        <test-method status="PASS" signature="setup(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.tests.LoginTests@4148db48]" name="setup" is-config="true" duration-ms="15843" started-at="2022-03-25T09:40:18 IST" finished-at="2022-03-25T09:40:34 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[emulator-5554]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Pixel_4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.qa.tests.LoginTests@4148db48]" name="beforeClass" is-config="true" duration-ms="951" started-at="2022-03-25T09:40:34 IST" finished-at="2022-03-25T09:40:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.LoginTests@4148db48]" name="beforeMethod" is-config="true" duration-ms="190" started-at="2022-03-25T09:40:35 IST" finished-at="2022-03-25T09:40:35 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.LoginTests.invalidPassord()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="invalidPassord()[pri:0, instance:com.qa.tests.LoginTests@4148db48]" name="invalidPassord" duration-ms="4055" started-at="2022-03-25T09:40:35 IST" finished-at="2022-03-25T09:40:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidPassord -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.LoginTests@4148db48]" name="beforeMethod" is-config="true" duration-ms="10" started-at="2022-03-25T09:40:39 IST" finished-at="2022-03-25T09:40:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.LoginTests.invalidUserName()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="invalidUserName()[pri:0, instance:com.qa.tests.LoginTests@4148db48]" name="invalidUserName" duration-ms="2684" started-at="2022-03-25T09:40:39 IST" finished-at="2022-03-25T09:40:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidUserName -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.LoginTests@4148db48]" name="beforeMethod" is-config="true" duration-ms="3" started-at="2022-03-25T09:40:42 IST" finished-at="2022-03-25T09:40:42 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.LoginTests.validUser()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validUser()[pri:0, instance:com.qa.tests.LoginTests@4148db48]" name="validUser" duration-ms="4686" started-at="2022-03-25T09:40:42 IST" finished-at="2022-03-25T09:40:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUser -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.qa.tests.LoginTests@4148db48]" name="afterClass" is-config="true" duration-ms="1" started-at="2022-03-25T09:40:46 IST" finished-at="2022-03-25T09:40:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.LoginTests@4148db48]" name="tearDown" is-config="true" duration-ms="5149" started-at="2022-03-25T09:40:51 IST" finished-at="2022-03-25T09:40:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.LoginTests -->
+    </test> <!-- Pixel_4_sauce_lab_app_tests -->
+  </suite> <!-- Suite -->
+</testng-results>
